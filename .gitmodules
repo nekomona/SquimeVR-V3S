@@ -1,0 +1,4 @@
+[submodule "Firmware"]
+	path = Firmware
+	url = https://github.com/nekomona/SlimeVR-Tracker-ESP
+	branch = squimev3
